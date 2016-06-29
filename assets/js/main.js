@@ -28,8 +28,6 @@ jQuery(document).ready(function($) {
 
     $('.conferences').smoove({offset:'40%'});
 
-    $('.credits').smoove({offset:'40%'});
-
 
 
     /*======= Skillset *=======*/
