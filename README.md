@@ -1,6 +1,6 @@
 #Web personal, creada en base a la plantilla de  Xiaoying Riley at 3rd Wave Media
 
-se modificaron muy pocas cosas de la plantilla original, agregando mas que todo efectos para darle un poco de dinamismo
+Se modificaron muy pocas cosas de la plantilla original, agregando mas que todo efectos para darle un poco de dinamismo
 
 aca el readme original de la plantilla.
 
@@ -20,7 +20,7 @@ Release Date:
 =======================================================================
 10 August 2014
 
-Author: 
+Author:
 =======================================================================
 Xiaoying Riley at 3rd Wave Media Ltd. (http://themes.3rdwavemedia.com/)
 
@@ -30,7 +30,7 @@ Web: http://themes.3rdwavemedia.com/
 Email: hello@3rdwavemedia.com
 Twitter: @3rdwave_themes
 
-License: 
+License:
 =======================================================================
 This template is free under the Creative Commons Attribution 3.0 License.
 https://creativecommons.org/licenses/by/3.0/
