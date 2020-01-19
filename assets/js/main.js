@@ -28,7 +28,19 @@ jQuery(document).ready(function($) {
 
     $('.conferences').smoove({offset:'40%'});
 
-
+    /*======= mostrar/ocultar elementos *=======*/
+    $("#hide").hide();
+    $("#show").click(function() {
+        $("#show-project").show("slow");
+        $("#show").hide();
+        $("#hide").show();
+        });
+    
+    $("#hide").click(function() {
+        $("#show-project").hide("slow");
+        $("#show").show();
+        $("#hide").hide();
+        });
 
     /*======= Skillset *=======*/
 
